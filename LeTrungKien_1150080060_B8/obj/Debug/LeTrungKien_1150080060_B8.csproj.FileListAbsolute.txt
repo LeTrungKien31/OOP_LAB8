@@ -1,0 +1,12 @@
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\bin\Debug\DbConnect.mdf
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\bin\Debug\DbConnect_log.ldf
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\bin\Debug\LeTrungKien_1150080060_B8.exe.config
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\bin\Debug\LeTrungKien_1150080060_B8.exe
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\bin\Debug\LeTrungKien_1150080060_B8.pdb
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.csproj.AssemblyReference.cache
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.Form1.resources
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.Properties.Resources.resources
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.csproj.GenerateResource.cache
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.csproj.CoreCompileInputs.cache
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.exe
+D:\OOP\LeTrungKien_1150080060_B8\LeTrungKien_1150080060_B8\obj\Debug\LeTrungKien_1150080060_B8.pdb
